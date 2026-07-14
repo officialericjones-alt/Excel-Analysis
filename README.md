@@ -13,3 +13,5 @@ STEPS	      COLUMN/VARIABLE	           ACTION TAKEN/FORMULA	          WHY/BUSIIN
 5	          Date	                mid/Text to columns	              To format as a date type
 6	        Flow card?	                      IF	                  To change the values from 1/0 format to Yes/No
 7	      Created a Quarter column	    "Q"&ROUNDUP	                To breakdown the year into quarters
+
+
